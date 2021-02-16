@@ -1,0 +1,30 @@
+/*******************************/
+/********* Board CSS ***********/
+/*******************************/
+#th-btn {
+	width: 141px;
+}
+
+#th-content {
+	width: 300px;
+}
+
+#th-title {
+	width: 150px;
+}
+
+#th-tel {
+	width: 150px;
+}
+
+#th-bkind {
+	width: 100px;
+}
+
+.trTitle {
+	background-color: #ffc107;
+}
+
+.table.table-bordered {
+	text-align: center;
+}
